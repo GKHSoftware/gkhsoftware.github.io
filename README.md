@@ -1,6 +1,4 @@
-# gkhsoftware.github.io
-Engineering domain integration is about finding complete solutions. For me, that has to happen in less than a week. I work to put "everything in its place." I see good software as a result of staging and linking software. In the construction industry, I'd be a general contractor ... that is, the person that takes care of everything the subcontractors don't do to make a customer happy.
-I see the result as a well-written book. It has a beginning, middle, and end and it inspires people to want to follow along. The book needs to convey the big picture, componentize the situation, and solve each problem.
-I am an electrical engineer that is compelled to keep track of the big picture. It doesn't matter whether I'm applying ASP.NET Core or analyzing load for an electrical system model. The customer, collegue, or other audience have to understand how the discussion fits with the big picture. I don't believe this can be done by strictly using the written word. Diagrams communicate key parts of the big picture.
-Tools are the key ways to componentize each scenario. Simply, the customer has to understand the tool function relative to their problem.
-Finally, since the overall solution is a combination of many little problems the customer must understand how each step will lead them to a overall solution.
+# GKH Software
+Integrating engineering tools begins within operations of our power company. World class service for our customers means that if the problem at hand doesn't affect a customer, then we're not solving it. It's core power ranges that are key: frequency, voltage, reserve capacity. These parameters affect customers without their knowledge only their wrath. If the frequency starts deviating from 60 hertz, then your power system is becoming unstable like it did in Texas in February of 2021. Rolling blackouts have catastrophic consequences to customers.
+
+Engineering succeeds with contingency or scenario analysis to steer away from the hazards. I use Ray Dalio's book *Principles* as a guide. Let history be our guide.
